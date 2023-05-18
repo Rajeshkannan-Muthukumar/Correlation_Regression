@@ -74,10 +74,8 @@ plt.legend(['Regression Line','Data points'])
 
 ```
 ## Output 
-![OP](1.png)
-![OP](2.png)
-![OP](3.png)
-![OP](4.png)
+![OP](OP.PNG)
+
 ## Result
 To analyse given data using coeffificient of correlation and regression line. is done successfully.
 
