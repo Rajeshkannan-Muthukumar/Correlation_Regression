@@ -57,9 +57,6 @@ print(byx)
 xmean=Sx/N
 ymean=Sy/N
 print("THe Regression line Y on X is ::: y = %0.3f + %0.3f (x-%0.3f)"%(ymean,byx,xmean))
-xmean=Sx/N
-ymean=Sy/N
-print("THe Regression line Y on X is ::: y = %0.3f + %0.3f (x-%0.3f)"%(ymean,byx,xmean))
 
 plt.scatter(x,y)
 def Reg(x):
